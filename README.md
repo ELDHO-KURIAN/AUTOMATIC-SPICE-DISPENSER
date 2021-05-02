@@ -1,6 +1,8 @@
 # AUTOMATIC-SPICE-DISPENSER
 This device automates the process of weighing and dispensing of various spices or other powder substances , so you get consistent taste every time you make something, this machine also reduces waist and makes the process more ergonomic 
- <image src="images/IMG_20210303_151231.jpg" width="500"> 
+
+
+ <image src="images/IMG_20210303_151231.jpg" width="400"> 
  
   # FEATURES
  ```
